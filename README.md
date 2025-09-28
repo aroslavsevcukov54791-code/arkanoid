@@ -1,2 +1,2 @@
-# arkanoid
-my arcade game
+# fast clicker
+my clicker game
